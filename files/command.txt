@@ -1,0 +1,1 @@
+git submodule foreach "python ../../../copy_docs_files.py;python run_on_each.py"

@@ -1,0 +1,11 @@
+
+Run:
+
+git pull --recurse-submodules
+
+to fetch all submodules.
+
+Go into any that need updated and run:
+
+git pull origin main
+
