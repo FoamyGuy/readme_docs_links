@@ -43,10 +43,10 @@ f.close()
 os.system("git add README.rst")
 
 # make new commit
-os.system('git commit -m "add docs link to readme"')
+# os.system('git commit -m "add docs link to readme"')
 
 
 # push origin main
-os.system("git push origin main")
+# os.system("git push origin main")
 
 time.sleep(3)
